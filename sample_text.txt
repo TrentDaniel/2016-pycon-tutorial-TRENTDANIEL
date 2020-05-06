@@ -1,0 +1,5 @@
+Hi,
+Today is a great day.
+
+This is sample text. It is located in a sample file.
+Bye
